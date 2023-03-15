@@ -1,0 +1,15 @@
+html {
+   font-size: 10px;
+   scroll-behavior: smooth;
+}
+
+.cabecalho {
+   background-color: #333;
+   height: 80px;
+}
+
+.cabecalho .container {
+   width: 90%;
+   height: 100%;
+   margin: 0 auto;
+}
